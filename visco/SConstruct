@@ -1,4 +1,0 @@
-from rsf.tex import *
-import os
-
-End(lclass='segabs',color='')
